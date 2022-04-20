@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/date-fns-test/static/css/main.68786b7c.css",
+    "main.js": "/date-fns-test/static/js/main.4402cbb5.js",
+    "index.html": "/date-fns-test/index.html",
+    "main.68786b7c.css.map": "/date-fns-test/static/css/main.68786b7c.css.map",
+    "main.4402cbb5.js.map": "/date-fns-test/static/js/main.4402cbb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68786b7c.css",
+    "static/js/main.4402cbb5.js"
+  ]
+}
